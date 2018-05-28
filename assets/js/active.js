@@ -36,7 +36,5 @@
         
     });
     
-    jQuery(window).load("index.html",function(){
-        jQuery(".industrian-site-preloader-wrap").fadeOut(2000);
-    });
+   
 }(jQuery));
